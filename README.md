@@ -1,2 +1,2 @@
 # The_Java
-The Java
+This project is called The_Java
